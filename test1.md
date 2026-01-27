@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD
     %% 定義樣式
     classDef attacker fill:#f8d7da,stroke:#721c24,stroke-width:2px;
@@ -43,3 +45,5 @@ graph TD
         VMBR3 -- "Filtered Traffic" --> Group_B
         VMBR3 -- "Filtered Traffic" --> Group_C
     end
+
+```
